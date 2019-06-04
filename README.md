@@ -2,7 +2,7 @@
 
 #### Steps to start the application
 
-1. 
+1. Set `PUT_YOUR_KEY` in file `src/Map/Map.js` as your Google Maps JS API Key
 
 2. `npm i` : Install packages 
 
@@ -13,5 +13,5 @@
 
 #### Other scripts
 
-* `npm test`
-* `npm run build`
+* `npm test` : Run tests
+* `npm run build` : Run prod builds
