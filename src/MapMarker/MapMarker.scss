@@ -1,0 +1,17 @@
+.marker {
+  &--car {
+    width: 10px;
+    height: 10px;
+    background: red;
+    border-radius: 50%;
+    color: red;
+  }
+
+  &--office {
+    width: 20px;
+    height: 20px;
+    background: rgba(0, 0, 255, 1);
+    border-radius: 50%;
+    color: rgba(0, 0, 255, 1);
+  }
+}
